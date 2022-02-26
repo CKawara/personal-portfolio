@@ -72,14 +72,26 @@ nav a:hover{
 #details p inline{
     color: #F58F7C;
 }
-#me{
-    font-size: xx-large;
+.me{
+    font-size: 45px;
 }
-#peach{
+.peach{
     color: #F58F7C;
-    font-size: larger;
+    font-size: 30px;
 }
 #Whatido{
     text-align: center;
     font-weight: bold;
+}
+.card{
+    background-color: #3c3c3f;
+    box-shadow: 5px 10px 8px 5px #252323;
+    font-size: 20px;
+    font-weight: 600;
+    padding: 10%;
+    margin: 20px;
+    border-bottom: #F58F7C 10px solid;
+}
+.card-title{
+    font-weight: 700;
 }
