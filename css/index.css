@@ -8,9 +8,6 @@ body{
     font-family: poppins;
     color: white;
 }
-/* .navbar{
-    background-color: ;
-} */
 #background{
     background:linear-gradient(rgba(0, 0, 0, 0.95), rgba(19, 18, 18, 0.95)), url("/img/fcf8559d17921a854db659e96c50967e.jpg");
     background-repeat: no-repeat;
@@ -20,7 +17,20 @@ body{
     padding: 30px;
     background-color: rgba(46, 46, 49, 0.5);
 }
-.row{
+#brand{
+    color: #F58F7C;
+}
+nav a{
+    font-weight: bolder;
+    border: 2px solid transparent;
+    margin-left:20px;
+    margin-right:20px
+
+}
+nav a:hover{
+    border-bottom: 2px solid #F2C4CE;
+}
+.main-row{
     min-height: 90vh;
     display: flex;
     justify-content: center;
@@ -43,16 +53,9 @@ body{
 #dev{
     font-size: xx-large !important;
 }
-#brand{
-    color: #F58F7C;
-}
-nav a{
-    font-weight: bolder;
-    border: 2px solid transparent;
-    margin-left:20px;
-    margin-right:20px
+#about img{
+    margin: 10% 0 0 0;
+    padding: 15%;
 
-}
-nav a:hover{
-    border-bottom: 2px solid #F2C4CE;
-}
+}    
+
