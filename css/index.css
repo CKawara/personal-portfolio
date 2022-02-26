@@ -75,7 +75,11 @@ nav a:hover{
 #me{
     font-size: xx-large;
 }
-#details p:first-child{
+#peach{
     color: #F58F7C;
     font-size: larger;
+}
+#Whatido{
+    text-align: center;
+    font-weight: bold;
 }
