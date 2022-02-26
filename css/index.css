@@ -90,7 +90,11 @@ nav a:hover{
     font-weight: 600;
     padding: 10%;
     margin: 20px;
-    border-bottom: #F58F7C 10px solid;
+    border-bottom: #F2C4CE 10px solid;
+}
+.card:hover{
+    background-color: #F58F7C;
+    color: #2E2E31;
 }
 .card-title{
     font-weight: 700;
