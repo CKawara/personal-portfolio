@@ -5,6 +5,47 @@
 }
 body{
     background-color: #2E2E31;
-    font-family: 'Montserrat', sans-serif;
+    font-family: poppins;
     color: white;
+}
+/* .navbar{
+    background-color: ;
+} */
+#home{
+    height: 100vh;
+    background:linear-gradient(rgba(0, 0, 0, 0.95), rgba(19, 18, 18, 0.95)), url("/img/fcf8559d17921a854db659e96c50967e.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.row{
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#home img{
+    max-width: 100%;
+
+
+}
+#home p{
+    font-size: x-large;
+}
+#home p:last-child{
+    font-size: large;
+}
+#name{
+    font-size: 70px !important;
+    font-weight: 900;
+}
+#name inline{
+    color: #F58F7C;
+    
+}
+#dev{
+    font-size: xx-large !important;
+}
+.container-{
+    padding-left: 10%;
 }
