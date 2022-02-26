@@ -53,10 +53,26 @@ nav a:hover{
 #dev{
     font-size: xx-large !important;
 }
+#about{
+    margin: 5% 0 5% 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 #about img{
-    margin: 10% 0 0 0;
     padding: 10px 0 0 13px;
     border-top: #F58F7C 10px solid;
     border-left: #F58F7C 10px solid;
 }    
-
+#details{
+    font-weight: bold;
+    font-size: large;
+    padding: 2% 0 0 5%;
+}
+#details p inline{
+    color: #F58F7C;
+}
+#me{
+    font-size: xx-large;
+    font-weight: bolder !important;
+}
