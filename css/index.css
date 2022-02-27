@@ -142,3 +142,33 @@ nav a:hover{
     font-weight: bolder;
     transform: scale(1.2);
 }
+#contact{
+    margin-top: 10%;
+}
+.contactme{
+    text-align: center;
+    font-weight: bold;
+}
+#contact a{
+    text-decoration: none;
+    color: white;
+}
+.form-control{
+    background-color: rgba(0, 0, 0, 0.0);
+    padding: 20px;
+    border-radius: 30px;
+    color: white;
+}
+.form-control:hover{
+    border: #F2C4CE 2px solid;
+}
+#contact .btn{
+    padding: 3% 10% 3% 10%;
+    background-color: #F58F7C;
+    box-shadow: 5px 10px 8px 5px #252323;
+    margin: 10%;
+    border-radius: 30px;
+}
+#contact .btn:hover{
+    transform: scale(1.2);
+}
