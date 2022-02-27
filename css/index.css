@@ -101,3 +101,18 @@ nav a:hover{
     font-weight: 700;
     
 }
+#projects{
+    margin-top: 10%;
+}
+#done{
+    text-align: center;
+    font-weight: bold;  
+}
+#projects .card{
+    background-image: linear-gradient(#F58F7C, #F2C4CE);
+    color: #2E2E31;
+    box-shadow: 5px 10px 8px 5px #252323;
+    font-size: 20px;
+    font-weight: 600;
+    margin: 10%;
+}
