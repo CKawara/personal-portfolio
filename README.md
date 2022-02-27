@@ -25,3 +25,6 @@ To access the site you'll need;
 ## Contributers
 [Catherine Kawara](https://github.com/CKawara/)
 
+## [license](https://github.com/CKawara/personal-portfolio/blob/master/LICENSE)
+MIT © [Catherine Kawara](https://github.com/CKawara/personal-portfolio)
+
