@@ -8,14 +8,14 @@ body{
     font-family: poppins;
     color: white;
 }
-#background{
+#home{
     background:linear-gradient(rgba(0, 0, 0, 0.95), rgba(19, 18, 18, 0.95)), url("/img/fcf8559d17921a854db659e96c50967e.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
 .navbar{
-    padding: 30px 0 30px 0;
-    background-color: rgba(46, 46, 49, 0.5);
+    padding: 20px 0 20px 0;
+    background-color: rgba(46, 46, 49, 0.7);
 }
 #brand{
     color: #F58F7C;
@@ -74,6 +74,20 @@ nav a:hover{
 }
 .me{
     font-size: 45px;
+}
+#home .btn{
+    padding: 3% 10% 3% 10%;
+    margin-top: 5%;
+    border-radius: 50px;
+    border: 2px #F58F7C solid;
+    box-shadow: 4px 4px 4px 5px #252323;
+    font-weight: bold;
+    color: white;
+}
+#home .btn:hover{
+    background-color: #F58F7C;
+    box-shadow: 5px 10px 8px 5px #252323;
+    color: black;
 }
 .peach{
     color: #F58F7C;
@@ -190,4 +204,13 @@ nav a:hover{
 .socialize i:hover{
     background-color: #F58F7C;
     color: #2E2E31;
+}
+footer{
+    background-color: #3c3c3f;
+    text-align: center;
+    color: white;
+}
+footer p{
+    padding: 10px;
+    margin-bottom: -10px;
 }
