@@ -83,7 +83,7 @@ nav a:hover{
     text-align: center;
     font-weight: bold;
 }
-.card{
+#services .card{
     background-color: #3c3c3f;
     box-shadow: 5px 10px 8px 5px #252323;
     font-size: 20px;
@@ -92,10 +92,12 @@ nav a:hover{
     margin: 20px;
     border-bottom: #F2C4CE 10px solid;
 }
-.card:hover{
+#services .card:hover{
     background-color: #F58F7C;
     color: #2E2E31;
+    transition: 0.5s ease;
 }
 .card-title{
     font-weight: 700;
+    
 }
