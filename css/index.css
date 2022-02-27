@@ -99,6 +99,10 @@ nav a:hover{
     transform: scale(1.1);
 
 }
+#services i{
+    font-size: 50px;
+    color: #F2C4CE;
+}
 .card-title{
     font-weight: 700;
     
@@ -129,7 +133,7 @@ nav a:hover{
     padding: 10px;
     background-color: #2E2E31;
     color: #F58F7C;
-    font-weight: bolder;
+    font-weight: bolder;    
 }
 #projects .btn:hover{
     padding: 10px;
