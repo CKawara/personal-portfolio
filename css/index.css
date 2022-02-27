@@ -172,3 +172,22 @@ nav a:hover{
 #contact .btn:hover{
     transform: scale(1.2);
 }
+.icon{
+    margin-right: 3%;
+    padding: 3%;
+    background-color: #F58F7C;
+    border-radius: 50px;
+    color: #2E2E31;
+}
+.socialize i{
+    margin: 5%;
+    padding: 3%;
+    border-radius: 50px;
+    box-shadow: 5px 10px 8px 5px #252323;
+    font-size: xx-large;
+    background-color: #3c3c3f;
+}
+.socialize i:hover{
+    background-color: #F58F7C;
+    color: #2E2E31;
+}
