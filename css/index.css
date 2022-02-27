@@ -92,6 +92,7 @@ nav a:hover{
 .peach{
     color: #F58F7C;
     font-size: 30px;
+    max-width: auto;
 }
 #Whatido{
     text-align: center;
@@ -147,7 +148,8 @@ nav a:hover{
     padding: 10px;
     background-color: #2E2E31;
     color: #F58F7C;
-    font-weight: bolder;    
+    font-weight: bolder;  
+    background-position: left bottom;  
 }
 #projects .btn:hover{
     padding: 10px;
