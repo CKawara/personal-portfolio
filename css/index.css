@@ -96,6 +96,8 @@ nav a:hover{
     background-color: #F58F7C;
     color: #2E2E31;
     transition: 0.5s ease;
+    transform: scale(1.1);
+
 }
 .card-title{
     font-weight: 700;
@@ -120,4 +122,19 @@ nav a:hover{
     background-image: linear-gradient(#2E2E31, #2E2E31);
     color: #F2C4CE;
     transition: 0.5s ease;
+}
+#projects .btn{
+    border: #2E2E31 2px solid;
+    box-shadow: 5px 10px 8px 5px #252323;
+    padding: 10px;
+    background-color: #2E2E31;
+    color: #F58F7C;
+    font-weight: bolder;
+}
+#projects .btn:hover{
+    padding: 10px;
+    background-color: #F58F7C;
+    color: #2E2E31;
+    font-weight: bolder;
+    transform: scale(1.2);
 }
