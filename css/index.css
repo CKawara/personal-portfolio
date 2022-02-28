@@ -9,7 +9,7 @@ body{
     color: white;
 }
 #home{
-    background:linear-gradient(rgba(0, 0, 0, 0.95), rgba(19, 18, 18, 0.95)), url("img/fcf8559d17921a854db659e96c50967e.jpg");
+    background:linear-gradient(rgba(0, 0, 0, 0.95), rgba(19, 18, 18, 0.95)), url("../img/fcf8559d17921a854db659e96c50967e.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
